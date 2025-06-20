@@ -1,17 +1,18 @@
 # 💵 Controle Financeiro
-### Repositório destinado ao armazenamento e compartilhamento da planilha que desenvolvi para controle financeiro.
-Em breve pretendo compartilhar por aqui também uma planilha para 🏰 Alocação de Carteira
+### Repositório destinado ao compartilhamento da planilha de controle financeiro que desenvolvi.
+Em breve, pretendo compartilhar por aqui também minha planilha para 🏰 Alocação de Carteira, que auxilia na visualização e acompanhamento de uma carteira de investimentos.
 
 ### 💵 [Controle Financeiro](https://docs.google.com/spreadsheets/d/1TmSb_tLtEbiT6hjnSSyqmya5RT-hz97dbnttdzspeLw/copy?usp=drive_link)
 
-#### Planilha para acompanhar receitas, despesas e saldo mensal, bem como aportes e resgates em investimentos, tudo de forma visual e simples.
+#### Planilha para acompanhamento de Receitas, Despesas e Saldo Mensal, bem como Aportes e Resgates em investimentos, tudo de forma visual e simples.
 
-Clique no link acima para fazer uma cópia da planilha. Fique à vontade para usar no seu dia a dia, como apoio na organização das suas finanças e investimentos.	
+É uma planilha de Google Sheets. Fique à vontade para clicar no link acima para fazer uma cópia e usar no seu dia a dia, como apoio na organização das suas finanças e investimentos.	
 
 ####
 
 ### Como começar: 														
-💡	Apenas as células pintadas de amarelo são editáveis manualmente. As demais podem ser compostas por fórmulas, então não as edite.									
+![Imagem não carregada](images/instrucao_01.png)
+
 #### ➯ 1. Defina as categorias 
     Defina as categorias que você utilizará para descrever as movimentações das suas contas na aba📓 Categorias.
 
@@ -21,7 +22,7 @@ Clique no link acima para fazer uma cópia da planilha. Fique à vontade para us
 #### ➯ 2. Defina um orçamento mensal 
     Defina um orçamento mensal a ser perseguido na aba 📐 Orçamento.
 
-    Em 📐 Orçamento, defina um valor para cada categoria e acompanhe mensalmente se os seus gastos padrão acompanharam este orçamento objetivo.
+    Em 📐 Orçamento, defina um valor para cada categoria e acompanhe mensalmente se os seus gastos acompanharam este orçamento objetivo.
 
     Gastos extratordinários não devem ser registrados nesta aba, mas apenas os gastos fixos, que você tem previsibilidade. O objetivo aqui é acompanhar o seu orçamento com gastos fixos.
 #### ➯ 3. Comece a lançar as movimentações
@@ -30,11 +31,12 @@ Clique no link acima para fazer uma cópia da planilha. Fique à vontade para us
     Regitre todas as suas Receitas e Despesas, bem como Aportes na aba de 🖋️ Registro Manual, seguindo as cetegorias definidas.	
 
 #### ➯ 4. Acompanhe suas Receitas, Despesas e Investimentos
-    Veja em gráficos mensais e anuais a relação das suas Receitas e seus Investimentos na aba 🔨 Receitas & Aportes, e as suas Despesas na aba 🔪 Despesas  
+    Veja em gráficos mensais e anuais a relação das suas Receitas e seus Investimentos na aba 🔨 Receitas & Aportes, e das suas Despesas na aba 🔪 Despesas.
   				
 ####
+Confira abaixo orientações mais detalhadas sobre a utilização de cada aba da planilha.
 
-## Entenda a como cada aba da planilha funciona
+## Entenda como cada aba da planilha funciona
 ### Aba 🖋️ Registro Manual						
 ➯ A planilha funciona com uma lógica de Fluxo de Caixa. Entradas na conta devem ser registrados como valores positivos, e saídas como valores negativos.
 
@@ -42,18 +44,29 @@ Clique no link acima para fazer uma cópia da planilha. Fique à vontade para us
 
 ➯ Todos os valores referentes a investimentos, sejam aportes ou resgates, devem ser registrados na categoria Aporte, utilizando valores positivos para os aportes e negativos para os resgates.
 
+    Lembrando que:
+    Aporte = valor enviado à corretora para investir
+    Resgate = valor resgatado da corretora
+
 ➯ Utilize valores positivos e negativos para abater valores recebidos. Por exemplo, se um amigo está te pagando de volta por uma refeição que você pagou, regitre esse valor positivo (pois é uma entrada de caixa), com a categoria Refeição. Assim, vai ser reflertido corretamente o valor de Refeição que você gastou no mês, na abba de 🔪 Despesas.
 
+![Imagem não carregada](images/registro_manual.png)
+
 ### Aba 🔨 Receitas & Aportes						
-➯ Este painel mostra uma relação entre as suas Receitas e seus Aportes ao longo do tempo, bem como uma relação entre os seus Aportes e o Saldo da sua conta mensalmente (Receitas - Despesas dentro do mês).		
+➯ O painel superior esquerdo mostra a relação Receitas / Aportes no mês selecionado. O da direita mostra a relação Receitas / Saldo das suas finanças mensalmente (Receitas - Despesas dentro do mês).	
 
 ![Imagem não carregada](images/receitas_e_aportes.png)
 
-### Aba 🔪 Despesas						
-➯ Este painel mostra as suas despesas. É possível visualizar períodos mensais ou anuais, e também, no painel inferior, o histórico de despesas por categoria.	
+➯ Mais abaixo, outros painéis mostram a relação Receita / Aportes anualmente e também nos últimos 12 meses:
+![Imagem não carregada](images/receitas_e_aportes_anual.png)
 
+![Imagem não carregada](images/receitas_e_aportes_12_meses.png)
+
+### Aba 🔪 Despesas						
+➯ O painel superior mostra as suas despesas por categoria em determinado mês ou ano:
 ![Imagem não carregada](images/historico_de_despesas.png)
 
+➯ O painel inferior mostra o histórico de despesas, por categoria, ou então um histórico de "Todas as Categorias" somadas, para acompanhar o seu custo de vida:
 ![Imagem não carregada](images/despesas_por_categoria.png)
 						
 ### Aba 📐 Orçamento						
