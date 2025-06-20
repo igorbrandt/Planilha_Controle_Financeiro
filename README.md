@@ -8,6 +8,8 @@ Em breve, pretendo compartilhar por aqui também minha planilha para 🏰 Aloca�
 
 É uma planilha de Google Sheets. Fique à vontade para clicar no link acima para fazer uma cópia e usar no seu dia a dia, como apoio na organização das suas finanças e investimentos.	
 
+Ao fazer uma cópia da planilha, se certifique de excluir os registros feitos de exemplo na aba 🖋️ Registro Manual antes de começar a incluir os seus.
+
 ####
 
 ### Como começar: 														
