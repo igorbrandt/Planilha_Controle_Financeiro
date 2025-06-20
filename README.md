@@ -21,7 +21,7 @@ Ao fazer uma cópia da planilha, se certifique de excluir os registros feitos de
     Na aba 📓 Categorias, você também pode registrar as suas contas correntes que serão movimentadas.
 
     Todas as categorias que você registrar nesta aba aparecerão como opção para seleção na aba 🖋️ Registro Manual.
-#### ➯ 2. Defina um orçamento mensal 
+#### ➯ 2. Defina um orçamento mensal (opcional)
     Defina um orçamento mensal a ser perseguido na aba 📐 Orçamento.
 
     Em 📐 Orçamento, defina um valor para cada categoria e acompanhe mensalmente se os seus gastos acompanharam este orçamento objetivo.
