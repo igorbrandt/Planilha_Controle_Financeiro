@@ -63,10 +63,10 @@ Confira abaixo orientações mais detalhadas sobre a utilização de cada aba da
 ![Imagem não carregada](images/receitas_e_aportes_12_meses.png)
 
 ### Aba 🔪 Despesas						
-➯ O painel superior mostra as suas despesas por categoria em determinado mês ou ano:
+➯ O painel superior mostra as suas despesas por categoria, em determinado mês ou ano:
 ![Imagem não carregada](images/historico_de_despesas.png)
 
-➯ O painel inferior mostra o histórico de despesas, por categoria, ou então um histórico de "Todas as Categorias" somadas, para acompanhar o seu custo de vida:
+➯ O painel inferior mostra o histórico de despesas por categoria, em determinado mês ou ano. Ou então, selecione "Todas as Categorias" para ver um histórico total de despesas, para acompanhar o seu custo de vida:
 ![Imagem não carregada](images/despesas_por_categoria.png)
 						
 ### Aba 📐 Orçamento						
