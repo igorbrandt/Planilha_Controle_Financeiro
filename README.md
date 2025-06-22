@@ -6,9 +6,9 @@ Em breve, pretendo compartilhar por aqui também minha planilha para 🏰 Aloca�
 
 #### Planilha para acompanhamento de Receitas, Despesas e Saldo Mensal, bem como Aportes e Resgates em investimentos, tudo de forma visual e simples.
 
-É uma planilha de Google Sheets. Fique à vontade para clicar no link acima para fazer uma cópia e usar no seu dia a dia, como apoio na organização das suas finanças e investimentos.	
+- É uma planilha de Google Sheets. Fique à vontade para clicar no link acima e fazer uma cópia para usar no seu dia a dia, como apoio na organização das suas finanças e investimentos.
 
-Ao fazer uma cópia da planilha, se certifique de excluir os registros feitos de exemplo na aba 🖋️ Registro Manual antes de começar a incluir os seus.
+- Ao fazer uma cópia da planilha, se certifique de excluir os registros feitos de exemplo na aba 🖋️ Registro Manual, antes de começar a incluir os seus.
 
 ####
 
@@ -16,24 +16,24 @@ Ao fazer uma cópia da planilha, se certifique de excluir os registros feitos de
 ![Imagem não carregada](images/instrucao_01.png)
 
 #### ➯ 1. Defina as categorias 
-    Defina as categorias que você utilizará para descrever as movimentações das suas contas na aba📓 Categorias.
+- Defina as categorias que você utilizará para descrever as movimentações das suas contas na aba📓 Categorias.
 
-    Na aba 📓 Categorias, você também pode registrar as suas contas correntes que serão movimentadas.
+- Na aba 📓 Categorias, você também pode registrar as suas contas correntes que serão movimentadas.
 
-    Todas as categorias que você registrar nesta aba aparecerão como opção para seleção na aba 🖋️ Registro Manual.
+- Todas as categorias que você registrar nesta aba aparecerão como opção para seleção na aba 🖋️ Registro Manual.
 #### ➯ 2. Defina um orçamento mensal (opcional)
-    Defina um orçamento mensal a ser perseguido na aba 📐 Orçamento.
+- Defina um orçamento mensal a ser perseguido na aba 📐 Orçamento.
 
-    Em 📐 Orçamento, defina um valor para cada categoria e acompanhe mensalmente se os seus gastos acompanharam este orçamento objetivo.
+- Em 📐 Orçamento, defina um valor para cada categoria e acompanhe mensalmente se os seus gastos acompanharam este orçamento objetivo.
 
-    Gastos extratordinários não devem ser registrados nesta aba, mas apenas os gastos fixos, que você tem previsibilidade. O objetivo aqui é acompanhar o seu orçamento com gastos fixos.
+- Gastos extratordinários não devem ser registrados nesta aba, mas apenas os gastos fixos, que você tem previsibilidade. O objetivo aqui é acompanhar o seu orçamento com gastos fixos.
 #### ➯ 3. Comece a lançar as movimentações
-    Comece a lançar as movimentações na aba de 🖋️ Registro Manual.
+- Comece a lançar as movimentações na aba de 🖋️ Registro Manual.
 
-    Regitre todas as suas Receitas e Despesas, bem como Aportes na aba de 🖋️ Registro Manual, seguindo as cetegorias definidas.	
+- Regitre todas as suas Receitas e Despesas, bem como Aportes na aba de 🖋️ Registro Manual, seguindo as cetegorias definidas.	
 
 #### ➯ 4. Acompanhe suas Receitas, Despesas e Investimentos
-    Veja em gráficos mensais e anuais a relação das suas Receitas e seus Investimentos na aba 🔨 Receitas & Aportes, e das suas Despesas na aba 🔪 Despesas.
+- Veja em gráficos mensais e anuais a relação das suas Receitas e seus Investimentos na aba 🔨 Receitas & Aportes, e das suas Despesas na aba 🔪 Despesas.
   				
 ####
 Confira abaixo orientações mais detalhadas sobre a utilização de cada aba da planilha.
