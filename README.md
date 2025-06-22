@@ -77,11 +77,7 @@ Confira abaixo orientações mais detalhadas sobre a utilização de cada aba da
 
 ![Imagem não carregada](images/orcamento.png)
 						
-#
-Fique à vontade para utilizar a planilha e sugerir melhorias!
-
-Ígor.						
-						
+#				
 															
 														
 														
