@@ -5,7 +5,7 @@ Faça bom proveito e fique à vontade para sugerir melhorias!
 
 ![Imagem não carregada](images/receitas_e_aportes.png)
 
-### Clique para fazer uma cópia grátis: 💵 [Controle Financeiro](https://docs.google.com/spreadsheets/d/1TmSb_tLtEbiT6hjnSSyqmya5RT-hz97dbnttdzspeLw/copy?usp=drive_link)
+### Clique para fazer uma cópia grátis ➯ [💵 Controle Financeiro](https://docs.google.com/spreadsheets/d/1TmSb_tLtEbiT6hjnSSyqmya5RT-hz97dbnttdzspeLw/copy?usp=drive_link)
 
 - É uma planilha de Google Sheets. Fique à vontade para clicar no link acima e fazer uma cópia para usar no seu dia a dia, como apoio na organização das suas finanças e investimentos.
 
