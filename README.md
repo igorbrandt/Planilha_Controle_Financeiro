@@ -1,10 +1,11 @@
 # 💵 Controle Financeiro
-### Repositório destinado ao compartilhamento da planilha de controle financeiro que desenvolvi.
-Em breve, pretendo compartilhar por aqui também minha planilha para 🏰 Alocação de Carteira, que auxilia na visualização e acompanhamento de uma carteira de investimentos.
+#### Se você é como eu e gosta de ter controle total das suas finanças, essa planilha foi feita para você. 
+Desenvolvi ela ao longo dos anos para acompanhar de perto minhas Receitas, Despesas e Investimentos — e agora decidi compartilhar com você também.
+Faça bom proveito e fique à vontade para sugerir melhorias!
 
-### 💵 [Controle Financeiro](https://docs.google.com/spreadsheets/d/1TmSb_tLtEbiT6hjnSSyqmya5RT-hz97dbnttdzspeLw/copy?usp=drive_link)
+![Imagem não carregada](images/receitas_e_aportes.png)
 
-#### Planilha para acompanhamento de Receitas, Despesas e Saldo Mensal, bem como Aportes e Resgates em investimentos, tudo de forma visual e simples.
+### Clique para fazer uma cópia: 💵 [Controle Financeiro](https://docs.google.com/spreadsheets/d/1TmSb_tLtEbiT6hjnSSyqmya5RT-hz97dbnttdzspeLw/copy?usp=drive_link)
 
 - É uma planilha de Google Sheets. Fique à vontade para clicar no link acima e fazer uma cópia para usar no seu dia a dia, como apoio na organização das suas finanças e investimentos.
 
@@ -50,7 +51,7 @@ Confira abaixo orientações mais detalhadas sobre a utilização de cada aba da
     Aporte = valor enviado à corretora para investir
     Resgate = valor resgatado da corretora
 
-➯ Utilize valores positivos e negativos para abater valores recebidos. Por exemplo, se um amigo está te pagando de volta por uma refeição que você pagou, regitre esse valor positivo (pois é uma entrada de caixa), com a categoria Refeição. Assim, vai ser reflertido corretamente o valor de Refeição que você gastou no mês, na abba de 🔪 Despesas.
+➯ Utilize valores positivos e negativos para abater valores recebidos. Por exemplo, se um amigo está te pagando de volta por uma refeição que você pagou, regitre esse valor positivo (pois é uma entrada de caixa), com a categoria Refeição. Assim, vai ser reflertido corretamente o valor de Refeição que você gastou no mês, na aba de 🔪 Despesas.
 
 ![Imagem não carregada](images/registro_manual.png)
 
