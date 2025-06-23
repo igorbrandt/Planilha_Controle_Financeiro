@@ -1,6 +1,6 @@
 # 💵 Controle Financeiro
 #### Se você é como eu e gosta de ter controle total das suas finanças, essa planilha foi feita para você. 
-Desenvolvi ela ao longo dos anos para acompanhar de perto minhas Receitas, Despesas e Investimentos — e agora decidi compartilhar com você também.
+Desenvolvi ela ao longo dos anos para acompanhar de perto minhas Receitas, Despesas e Investimentos — e agora decidi compartilhar por aqui também.
 Faça bom proveito e fique à vontade para sugerir melhorias!
 
 ![Imagem não carregada](images/receitas_e_aportes.png)
